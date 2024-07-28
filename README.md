@@ -50,3 +50,5 @@ This project should be run with these following libraries
 - Dataset used can be also found in Kaggle Dataset [here](https://www.kaggle.com/datasets/avikasliwal/used-cars-price-prediction)
 
 ## Acknowledgements
+- Thanks Siddhardhan and KothaEd for great project.
+- Thanks for the help of [poe application](https://poe.com/) that helped me complete this project in the best and most stable way.
