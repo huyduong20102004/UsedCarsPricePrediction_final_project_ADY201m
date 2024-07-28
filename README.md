@@ -12,6 +12,9 @@ The main goal of this project is to develop a machine learning model that can ac
 - Analyze and process data 
 - Find a suitable model and build model
 - Create a simple flask application
+
+  
+## Before filling in all car information:
   
 ## Problem statement 
 The used car market is vast and complex, with prices varying significantly based on numerous factors such as make, model, year, mileage, condition, and location. For buyers, determining a fair price for a used car can be challenging due to the multitude of influencing factors. Similarly, sellers may struggle to set a competitive yet profitable price. The lack of standardized pricing mechanisms often leads to uncertainty and potential financial loss for both parties.
