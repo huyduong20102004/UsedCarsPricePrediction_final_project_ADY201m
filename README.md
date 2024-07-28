@@ -16,8 +16,10 @@ The main goal of this project is to develop a machine learning model that can ac
   
 ## Before filling in all car information:
 ![Screenshot 2024-07-29 001152](https://github.com/user-attachments/assets/4c9c8e6b-49c6-4c98-b8d5-830a0ba63044)
+## Prediction results of car prices :
+![Screenshot 2024-07-29 001340](https://github.com/user-attachments/assets/55a2bd95-35b9-42a0-a9ae-c585b8f5c1fa)
 
-  
+
 ## Problem statement 
 The used car market is vast and complex, with prices varying significantly based on numerous factors such as make, model, year, mileage, condition, and location. For buyers, determining a fair price for a used car can be challenging due to the multitude of influencing factors. Similarly, sellers may struggle to set a competitive yet profitable price. The lack of standardized pricing mechanisms often leads to uncertainty and potential financial loss for both parties.
 
